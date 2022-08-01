@@ -1,0 +1,7 @@
+name: PlayerStopTool
+version: '${project.version}'
+main: com.kinoko2k.playerstoptool.Playerstoptool
+api-version: 1.19
+authors: [ Kinoko_2K ]
+description: playerstoptool tnt delete
+website: kinoko2k.github.io
